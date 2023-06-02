@@ -1,0 +1,8 @@
+---
+namespace: "simeononsecurity"
+role_name: windows_update
+description: Role to automate Windows security patching.
+min_ansible_version: 2.10
+platforms:
+  - name: Windows
+author: SimeonOnSecurity
