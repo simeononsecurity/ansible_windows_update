@@ -2,7 +2,7 @@
 namespace: simeononsecurity
 name: "windows_update"
 description: "Role to automate Windows security patching."
-readme: readme.md
+readme: README.md
 version: 1.0.0
 homepage: https://simeononsecurity.ch
 issues: https://github.com/simeononsecurity/ansible_windows_update/issues
