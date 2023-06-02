@@ -1,14 +1,14 @@
 ---
-namespace: simeononsecurity
+namespace: "simeononsecurity"
 name: "windows_update"
 description: "Role to automate Windows security patching."
 readme: README.md
 version: 1.0.0
-homepage: https://simeononsecurity.ch
-issues: https://github.com/simeononsecurity/ansible_windows_update/issues
-repository: https://github.com/simeononsecurity/ansible_windows_update
+homepage: "https://simeononsecurity.ch"
+issues: "https://github.com/simeononsecurity/ansible_windows_update/issues"
+repository: "https://github.com/simeononsecurity/ansible_windows_update"
 authors:
-  - SimeonOnSecurity (https://simeononsecurity.ch)
+  - "SimeonOnSecurity (https://simeononsecurity.ch)"
 license_file: LICENSE
 tags:
 - role
