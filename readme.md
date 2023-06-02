@@ -29,6 +29,6 @@ None
 License: MIT
 
 Author Information:
-This role was created by SimeonOnecurity.
-For more information, visit [SimeonOnecurity.ch](https://simeononecurity.ch).
+This role was created by SimeonOnSecurity.
+For more information, visit [SimeonOnSecurity.ch](https://simeononsecurity.ch).
 
