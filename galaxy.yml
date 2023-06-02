@@ -1,12 +1,12 @@
 ---
 namespace: simeononsecurity
-name: windows_stigs
-description: Ansible Playbooks for SimeonOnSecurity's STIG Scripts
+name: "windows_update"
+description: "Role to automate Windows security patching."
 readme: readme.md
 version: 1.0.0
 homepage: https://simeononsecurity.ch
-issues: https://github.com/simeononsecurity/Windows_STIG_Ansible/issues
-repository: https://github.com/simeononsecurity/Windows_STIG_Ansible
+issues: https://github.com/simeononsecurity/ansible_windows_update/issues
+repository: https://github.com/simeononsecurity/ansible_windows_update
 authors:
   - SimeonOnSecurity (https://simeononsecurity.ch)
 license_file: LICENSE
@@ -18,5 +18,3 @@ build_ignore:
 - .gitattributes
 - .gitignore
 - .vscode
-- */files/*master.zip
-- */files/*main.zip
