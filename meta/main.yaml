@@ -7,7 +7,7 @@ galaxy_info:
     - name: Windows
   author: SimeonOnSecurity
   license: MIT
-
+  galaxy_tags: []
 
 platforms:
   - name: Windows
@@ -16,3 +16,4 @@ dependencies: []
 
 license: MIT
 license_file: LICENSE
+

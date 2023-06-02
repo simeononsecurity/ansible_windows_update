@@ -18,3 +18,4 @@
   when: win_updates_result.updates|length > 0
   tags:
     - windows_update
+
