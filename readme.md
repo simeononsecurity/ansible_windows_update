@@ -37,3 +37,6 @@ Author Information:
 This role was created by SimeonOnSecurity.
 For more information, visit [SimeonOnSecurity.ch](https://simeononsecurity.ch).
 
+
+
+## [Learn more about Automating Windows Patching with Ansible](https://simeononsecurity.ch/guides/automate-windows-patching-and-updates-with-ansible/)
