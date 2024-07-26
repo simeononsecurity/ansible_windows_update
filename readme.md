@@ -1,5 +1,7 @@
 # Ansible Role: windows_update
 
+ [![Sponsor](https://img.shields.io/badge/Sponsor-Click%20Here-ff69b4)](https://github.com/sponsors/simeononsecurity) 
+
 This role automates Windows security patching using Ansible.
 
 ## Requirements
